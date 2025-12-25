@@ -5,9 +5,11 @@
 <img width="482" height="512" alt="image" src="https://github.com/user-attachments/assets/6312a803-93d4-4859-9b80-af4b6918ac55" />
 
 На игровом поле мы можем видеть белые квадраты, которые, на деле, выполняют роль эдаких "шторок", за которыми располагаются игровые фигуры: 
+
 <img width="66" height="66" alt="image" src="https://github.com/user-attachments/assets/93efa5fd-d613-4367-914a-cdcec84724ce" />
 <img width="66" height="66" alt="image" src="https://github.com/user-attachments/assets/f224137a-fb8d-40be-b690-604303c58876" />
 
 Благодаря PyGame также получилось реализовать плавную анимацию раскрытия описанных выше белых "шторок".
+
 ![python_JUOxfr1n1f](https://github.com/user-attachments/assets/b4bda778-5648-43bc-8c87-ca6c71995658)
 
