@@ -2,6 +2,9 @@
 
 Ежели отбросить в сторону определение из wiki, то данный pet-проект - простой тест работы с библиотекой PyGame, которая в представленном проекте необходима для реализации комфортного глазу визуала игры.
 
-<img width="493" height="522" alt="image" src="https://github.com/user-attachments/assets/22e98f04-5190-489f-bd95-b4155d99fb17" />
-На игровом поле мы можем видеть белые квадраты, которые, на деле, выполняют роль эдаких "шторок", за которыми располагаются игровые фигуры: <img width="109" height="113" alt="image" src="https://github.com/user-attachments/assets/8ab5cb09-9d33-4faf-ba02-0898a2c4b4f0" /> <img width="100" height="102" alt="image" src="https://github.com/user-attachments/assets/88629394-21e5-48f0-a119-c3e0f32d3666" />
+<img width="482" height="512" alt="image" src="https://github.com/user-attachments/assets/6312a803-93d4-4859-9b80-af4b6918ac55" />
+
+На игровом поле мы можем видеть белые квадраты, которые, на деле, выполняют роль эдаких "шторок", за которыми располагаются игровые фигуры: <img width="66" height="66" alt="image" src="https://github.com/user-attachments/assets/93efa5fd-d613-4367-914a-cdcec84724ce" />
+<img width="66" height="66" alt="image" src="https://github.com/user-attachments/assets/f224137a-fb8d-40be-b690-604303c58876" />
+
 Благодаря PyGame также получилось реализовать плавную анимацию раскрытия описанных выше белых "шторок". ![python_2NzAMLvV6M](https://github.com/user-attachments/assets/6504330d-5aa2-4072-a1ff-31ea712f5ad0)
